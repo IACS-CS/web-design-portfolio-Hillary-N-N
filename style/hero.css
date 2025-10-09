@@ -7,8 +7,8 @@
   /* Full screen hero section */
   width: 100%;
   min-height: 100dvh;
-  background: #0033a0;
-  color: white;
+  background: #ffcb5b8c;
+  color:ant(255, 255, 255);
   font-family: Futura;
   font-weight: bold;
   font-size: 30px;

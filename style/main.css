@@ -15,7 +15,7 @@ body {
   box-sizing: border-box;
   /* Customize colors! */
   background: antiquewhite;
-  color: antiquewhite #7D6D61;
+  color: antiquewhite #7d6d61;
 }
 h2 {
   color: #0033a0;
@@ -34,4 +34,10 @@ main {
   line-height: 1.8; /* choose a line spacing */
   font-size: 18px; /* choose a font size */
   margin: 0 auto; /* center the content */
+}
+a{
+  color:black;
+}
+#about-me{
+  color:black;
 }
